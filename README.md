@@ -1,7 +1,7 @@
 
 #   SA 01 W1 CODE CHALLENGE
 
-24th March 2024
+22<sup>nd</sup> March 2024
 
 
 This document was created with Javascript
@@ -11,9 +11,25 @@ This document was created with Javascript
 ### Description
 
 This was a code challenge comprised of 3 different tasks, the scripting of:-
-  * A student grade generator,
-  * A speed detector,
+  * A student grade generator
+    * Which was about writing a program that prompts the user to input student marks, after which it calculates the correct grade to be issued to the student. 
+
+      ```js
+      const marksInput = parseInt(prompt("Input student marks? "));
+
+      // marksInput = 50
+      ``` 
+      We prompt the user then we evaluate the entry
+
+      ```js
+      grader(marksInput);
+
+      // students grade = C
+      ```
+  * A speed detector
+    * Here i was to script a program that evaluates the speed of a car.
   * And a net salary calculator.
+    * Here i was to script a program that calculates the net salary of an employee according to the guidlines issued while calculating NHIF, NSSF and PAYE.
 
 
 >Love this project? Buy me a coffee...
