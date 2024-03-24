@@ -3,6 +3,8 @@
 
 22<sup>nd</sup> March 2024
 
+#### By *Keith Owino*
+
 
 This document was created with Javascript
 
@@ -85,10 +87,6 @@ To fix a bug or enhance an existing module, follow these steps:
     cd sa-01-w1-code-challenge
     ```
 
-<!--
-- Navigate to index.html  and open it on your favorite browser Your browser must be JavaScript enabled for this to work
--->
-
 ## Installation Medium
 1. Steady Network.
 2. Web-link
@@ -106,3 +104,7 @@ To fix a bug or enhance an existing module, follow these steps:
 ### Support and contact details
 
 - Email - designsolutions1629@gmail.com 
+
+### License
+>The content of this site is licensed under the MIT license
+Copyright (c) 2023.
